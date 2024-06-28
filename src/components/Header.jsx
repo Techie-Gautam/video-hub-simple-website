@@ -17,7 +17,7 @@ function Header() {
 
                 <DrawerContent>
                     <DrawerCloseButton />
-                    <DrawerHeader>VIDEO HUB</DrawerHeader>
+                    <DrawerHeader>VIDEOS HUB</DrawerHeader>
                     <DrawerBody>
                         <VStack alignItems={'flex-start'}>
                             <Button onClick={onclose} variant={'ghost'} colorScheme="purple">
